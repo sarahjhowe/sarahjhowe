@@ -1,0 +1,54 @@
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+
+<title>Chicago Early Learning: Needs & Accessibility</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+<style>body{background:Orange;}h1{color:PeachPuff;font-weight:bold;font-family: 'Libre Baskerville', serif;}</style>
+<style>p{font-family: 'Libre Baskerville', serif;}</style>
+<style>h3{color:PeachPuff;font-weight:bold;font-family: 'Libre Baskerville', serif;}</style>
+</head>
+
+<body>
+
+<div id = introtext>
+<h1>Chicago Early Learning: Needs & Accessibility</h1>
+<p>This is a resource for parents and guardians in Chicago to access their family needs and connect their children to mixed modes of education.</p>
+</div>
+
+<div>
+<p>Access to both indoor and outdoor modes of education are absolutely crucial to infant and toddler cognitive development. In Chicago's Early Learning programs, prior to kindergarten, educators are equipped to meet the educational needs of each student to prepare them to enter Chicago's school districts. Further, these programs provide physical and mental health assessments, parent and guardian trainings, and safe, CDC-advised classroom environments. For parents experiencing adversity, Chicago's Early Learning programs, such as Every Child Ready Chicago, can provide necessary supports for parents.</p>
+<p>It is just as important for young minds to be cognitively engaged in Chicago's outdoor environments as within the classroom. According to Harvard Medical School's health publications, infants, toddlers, and preschool children require outdoor education to fully prepare them for adolescence. Outdoor education, as simple as engaging with a neighborhood playground, helps children in six crucial ways: access to sunshine (Vitamin D), exercise, executive function, risk taking, socialization, and appreciation of nature.</p>
+</div>
+
+<div class = "map">
+<p>Here is a map of mixed modes of education in Chicago:</p>
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Chicago's Mixed Modes of Education" src="//univofillinois.maps.arcgis.com/apps/Embed/index.html?webmap=4893fc419b324b1491dc1269ad5131d7&extent=-88.471,41.5161,-86.9933,42.1505&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+
+<p>An integral part of family planning is access to indoor and outdoor modes of education. As a resource, this map provides Chicago Early Learning programs that serve children ages 0 - 3 (in blue), and children over the age of 3 (in red). This map also highlights parks that have playgrounds for children to engage critical cognitive development in a fun, safe, and natural environment. Parks with more playgrounds are shown in darker shades of green.
+</div>
+
+<div>
+<h3> Chicago Early Learning & Every Child Ready Chicago</h3>
+<p> Accessing education for infants and toddlers can be especially difficult for parents experiencing adversity. Although Chicago's Early Learning programs and park districts may be sufficient to provide education for some families, others may require more assistance. The following resources will aid families enduring early guardianship challenges, such as inadequate prenatal care, preterm births, and teen births.</p>
+<p> Chicago's Early Learning programs can provide a safety net for new parents and their infants as they grow through the city's public and private educational systems. Specifically, Every Child Ready Chicago, initiated in 2020, works to ensure equitable care for parents and children from prenatal development to 5 years old. Every Child Ready Chicago (ECRC) is an ongoing initiative to connect administers, researchers, advocates, city agencies, private partners, parents, guardians, and most importantly, children, to develop a strategy to assist children from infancy to adolescence in Chicago's educational systems. This is particularly important for parents with traditionally limited prenatal care, preterm births, or teenage pregnancies, as ECRC will work to connect them to a plethora of resources. </p>
+</div>
+
+<div>
+<p>Here is a graphic from the Early Child Ready Chicago pilot program, highlighting the importance of consistent funding, leadership and decision-making, and data and research:</p>
+<img src=UPP465Website/ECRCpicture.png>
+
+</div>
+<p>For additional assistance, check out these resources:
+<p><a href = â€œhttps://www.chicago.gov/city/en/sites/chicagoearlylearning/home.htmlâ€>Chicago Early Learning Website</a></p>
+<p><a href = â€œhttps://drive.google.com/file/d/1lJWTouzDLYA-UwRaAGwo6hOG-BvxQvaL/viewâ€>Every Child Ready Chicago Summary Proposal</a></p>
+<p><a href = â€œhttps://drive.google.com/file/d/1P6S28d4DhzffJu11c2aqpdO_ie2Jrvu5/viewâ€>Every Child Ready Chicago Workgroup Presentations</a></p>
+
+</body>
+
+</html>
